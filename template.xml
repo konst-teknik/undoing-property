@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<templates>
+	<template category="Own Templates">
+		<name>Undoing Property Template</name>
+		<file>template.sla</file>
+		<tnail>Undoing Property Templatetn.png</tnail>
+		<img>Undoing Property Template.png</img>
+		<psize>Custom, 169x239</psize>
+		<color></color>
+		<descr></descr>
+		<usage></usage>
+		<scribus_version>1.4.2</scribus_version>
+		<date>2013-05-20</date>
+		<author></author>
+		<email></email>
+	</template>
+</templates>
